@@ -1,0 +1,30 @@
+body{
+  display: block;
+  font: 'Raleway',sans-serif;
+  color: rgba(0,0,0,0.5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .5em;
+  top: 15%;
+  background: linear-gradient(to right,#2e7a2e,#10104c);
+}
+
+h1{
+  font:600 3.5em 'Raleway',sans-serif;
+  color: rgba(0,0,0,0.5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  width: 100%;
+}
+
+
+#last{
+  color:white;
+  text-align: center;
+  margin-top: 300px;
+}
+
+.fa-heart{
+  color: #73c8a9 ;
+}
